@@ -6,4 +6,4 @@
 
 ## Privacy Policy
 
-Copyright © 2018 Yancey Inc. All rights reserved.
+Copyright © 2017 Yancey Inc. All rights reserved.
