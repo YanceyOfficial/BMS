@@ -1,9 +1,13 @@
-# 图书管理系统
+# Book Management System
 
 ## Introdction
 
-大学实训做的一个图书管理系统，基于Java，扔在这里，留个纪念。
+The Book Management System had written in my second year of university.
 
-## Privacy Policy
+This repository I would like to commemorate the passing away of my college years.
 
-Copyright © 2017 Yancey Inc. All rights reserved.
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
+
+Copyright © 2018 Yancey Inc. All rights reserved.
