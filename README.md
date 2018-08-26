@@ -6,6 +6,4 @@ The Book Management System had written in my second year of university, and this
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT)
-
-Copyright © 2018 Yancey Inc. All rights reserved.
+Blog-FE-v1.0 is [MIT licensed](https://opensource.org/licenses/MIT).
