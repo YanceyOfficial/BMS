@@ -1,8 +1,8 @@
 # Book Management System
 
-## Introdction
+## Introduction
 
-The Book Management System had written in my second year of university, and this repository I would like to commemorate the passing away of my college years.
+The Book Management System had written in my second year of university, and this repository I would like to commemorate the passing away of my university years.
 
 ## License
 
